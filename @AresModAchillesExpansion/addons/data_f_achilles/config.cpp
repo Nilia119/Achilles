@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class achilles_data_f_achilles
+	class achilles_data_f_achilles1
 	{
 		weapons[] = {};
 		requiredVersion = 0.1;
@@ -28,5 +28,3 @@ class CfgVehicles
 		scopeCurator = 2;
 	};
 };
-
-#include "cfgMusic.hpp"
