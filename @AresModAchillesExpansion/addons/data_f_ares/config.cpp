@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class achilles_data_f_ares
+	class achilles_data_f_ares1
 	{
 		weapons[] = {};
 		requiredVersion = 0.1;
@@ -18,14 +18,4 @@ class CfgPatches
 class CfgGroups
 {
 	#include "Compositions\compositions.hpp"
-};
-
-class CfgVehicles
-{
-	//#include "config\cfgVehiclesSortingOverrides.hpp"
-};
-
-class CfgWeapons
-{
-	//#include "config\cfgWeaponsSortingOverrides.hpp"
 };
